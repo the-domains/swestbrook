@@ -1,0 +1,28 @@
+name: swestbrook
+favicon: null
+layout_spectrum: 0.5876225826796144
+typography_spectrum: 0.8595380196347833
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7946912734769285
+  lightness: 0.5662203677929938
+  saturation: 0.34126641787588596
+  rhythmicContrast: 0.7577643801923841
+purpose: []
