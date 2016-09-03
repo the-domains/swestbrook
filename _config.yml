@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: I made this.
+    id: ff1dd906-9190-43f1-985e-8d961c0641bf
+    type: content
 favicon: null
 title: Creative strategy & innovation
 description: like peanut butter and chocolate
