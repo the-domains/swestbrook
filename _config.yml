@@ -1,19 +1,4 @@
-name: swestbrook
-favicon: null
-layout_spectrum: 0.74654
 typography_spectrum: 0.57214
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.625
   saturation: 0.5625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74654
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: swestbrook
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Creative strategy & innovation
 purpose: []
