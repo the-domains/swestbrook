@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Stacy Westbrook
+  email: stacy@swestbrook.com
+  url: 'http://www.swestbrook.com'
 name: swestbrook
 cta:
   domain: null
