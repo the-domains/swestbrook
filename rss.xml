@@ -4,8 +4,15 @@
         <description><![CDATA[Stacy Westbrook]]></description>
         <link>https://thegrid.ai/swestbrook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Sep 2016 14:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 14:07:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/swestbrook/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I made this.]]></title>
+            <description><![CDATA[<article><h1>I made this.</h1><p>In 1996, procrastination brought me to the world wide web, one hand-coded line in HTML in emacs on a UNIX terminal login at a time. I had no idea the potent mix of a little code and a little Photoshop was going to change my life and become the start of a career of internet magic.</p></article>]]></description>
+            <link>https://thegrid.ai/swestbrook/i-made-this/index.html</link>
+            <guid isPermaLink="false">ff1dd906-9190-43f1-985e-8d961c0641bf</guid>
+            <pubDate>Sat, 03 Sep 2016 14:06:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stacy Westbrook | LinkedIn]]></title>
             <description><![CDATA[<article><h1>Stacy Westbrook | LinkedIn</h1><p>I'm a creative leader with nearly 20 years of experience in marketing, design, and digital media. I love building highly productive collaborative creative teams, fostering big ideas, and planning strategic campaigns. I'm adaptable, a quick study, and keep calm when the going gets rough. I lead teams that get things done.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9363c8c4e163a1a1e2d6cfcd2d25571d/noop.jpg?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2Fshrinknp_200_200%2FAAEAAQAAAAAAAAQOAAAAJDkzMjM5MGY0LWNkM2ItNDljMy1hYmJhLWNlM2ViYWM2YmFmNQ.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://www.linkedin.com/pulse/what-heck-innovation-anyway-stacy-westbrook</link>
             <guid isPermaLink="false">90ce16c9-3c74-49f5-acdb-71e583d8d60d</guid>
             <pubDate>Wed, 31 Aug 2016 21:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made this.]]></title>
-            <description><![CDATA[<article><h1>I made this.</h1><p>In 1996, procrastination brought me to the world wide web, one hand-coded line in HTML in emacs on a UNIX terminal login at a time. I had no idea the potent mix of a little code and a little Photoshop was going to change my life and become the start of a career of internet magic.</p></article>]]></description>
-            <link>https://thegrid.ai/swestbrook/i-made-this/index.html</link>
-            <guid isPermaLink="false">ff1dd906-9190-43f1-985e-8d961c0641bf</guid>
-            <pubDate>Sat, 03 Sep 2016 14:05:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
